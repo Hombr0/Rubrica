@@ -1,0 +1,21 @@
+﻿Compilazione avviata 19/09/2019 16:38:40.
+     1>Progetto "C:\Users\Asus\Desktop\programmi c++\Rubrica\Rubrica.vcxproj" sul nodo 2 (destinazioni: Build).
+     1>InitializeBuildStatus:
+         Creazione di "Debug\Rubrica.tlog\unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Origine.cpp
+         Origine.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.16.27023\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Asus\Desktop\programmi c++\Rubrica\Debug\Rubrica.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Asus\Desktop\programmi c++\Rubrica\Debug\Rubrica.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Asus\Desktop\programmi c++\Rubrica\Debug\Rubrica.lib" /MACHINE:X86 Debug\Contatto.obj
+         Debug\Origine.obj
+         Rubrica.vcxproj -> C:\Users\Asus\Desktop\programmi c++\Rubrica\Debug\Rubrica.exe
+       FinalizeBuildStatus:
+         Eliminazione del file "Debug\Rubrica.tlog\unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di "Debug\Rubrica.tlog\Rubrica.lastbuildstate".
+     1>Compilazione progetto "C:\Users\Asus\Desktop\programmi c++\Rubrica\Rubrica.vcxproj" (destinazioni: Build) completata.
+
+Compilazione completata.
+    Avvisi: 0
+    Errori: 0
+
+Tempo trascorso 00:00:01.81
